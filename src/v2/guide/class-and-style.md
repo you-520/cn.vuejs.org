@@ -182,7 +182,7 @@ data: {
 data: {
   styleObject: {
     color: 'red',
-    fontSize: '13px'
+    fontSize: '30px'
   }
 }
 ```
